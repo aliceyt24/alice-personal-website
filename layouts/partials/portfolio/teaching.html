@@ -2,10 +2,10 @@
   <div class="my-auto" id="teaching-content">
     <h2 class="mb-5">Teaching</h2>
     {{ range .Site.Data.teaching }}
-        <div class="resume-item d-flex flex-column flex-md-row mb-1">
+        <div class="resume-item d-flex flex-column flex-md-row mb-0">
           <div class="resume-content mr-auto">
             <h3 class="mb-0">{{ .role }}</h3>
-            <div class="subheading mb-3">{{ .company | markdownify }}</div>
+            <div class="subheading mb-2">{{ .company | markdownify }}</div>
             <p>{{ .summary | markdownify }}</p>
           </div>
           <div class="resume-date text-md-right">
