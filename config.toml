@@ -1,0 +1,41 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Alice Y Taylor'
+theme = 'hugo-resume'
+
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Berkeley, CA USA · Rio de Janeiro, Brazil"
+email = "aliceyt@berkeley.edu"
+favicon = "/favicon.ico"
+colorCSS = "css/color.css"
+firstName = "Alice Y"
+lastName = "Taylor"
+profileImage = "img/alice-headshot.png"
+showEducation = true
+showExperience = true
+showProjects = true
+showPublications = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://twitter.com/aliceyt24"
+name = "Twitter"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/aliceytaylor/"
+name = "LinkedIn"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
