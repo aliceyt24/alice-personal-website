@@ -1,0 +1,9 @@
+{{ define "main" }}
+{{ partial "breadcrumbs" . }}
+<section class="resume-section p-3 p-lg-5 d-flex d-column">
+  <div class="my-auto">
+      <img style="width: 500px;" src="{{ .Site.Params.gopher | relURL }}" alt="">
+      <h2 class="mb-5"><a href="{{ "" | relURL }}">Page left as an exercise for the reader</a></h2>
+  </div>
+</section>
+{{ end }}
