@@ -17,7 +17,7 @@ firstName = "Alice Y"
 lastName = "Taylor"
 profileImage = "img/alice-headshot.png"
 showEducation = true
-showExperience = true
+showTeaching = true
 showProjects = true
 showPublications = true
 

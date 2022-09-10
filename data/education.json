@@ -1,0 +1,23 @@
+[
+    {
+        "school":"University of California, Berkeley",
+        "degree":"Doctor of Philosophy",
+        "major":"Education; Designated Emphasis in Gender & Women's Studies",
+	"notes":"Dissertation: _Articulating youth: Politics and practices of Brazilian youth movements_",
+        "range":"2016 - 2023"
+    },
+    {
+        "school":"The Fletcher School at Tufts University",
+        "degree":"Master of Arts",
+        "major":"International Affairs",
+	"notes":"Thesis: _Internally displaced women leaders in Colombia's armed conflict_",
+        "range":"2008 - 2010"
+    },
+    {
+        "school":"University of Southern California",
+        "degree":"Bachelor of Arts",
+        "major":"Dual degree in Spanish & Communication",
+	"notes":"Honors: _magna cum laude_",
+        "range":"2001 - 2005"
+    }
+]
