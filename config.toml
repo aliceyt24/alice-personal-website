@@ -16,7 +16,6 @@ colorCSS = "css/color.css"
 firstName = "Alice Y"
 lastName = "Taylor"
 profileImage = "img/alice-headshot.png"
-gopher = "img/gopher.png"
 showEducation = true
 showTeaching = true
 showProjects = true

@@ -6,6 +6,7 @@ sitemap:
 
 outputs:
 - html
+- rss
 ---
 
 - Gupta, T. P., **Taylor, A. Y.**, Lauro, G., Shengelia, L., Sturua, L. (2018). _Exploring practices of early/child marriage and FGM/C in Georgia: Results from qualitative research._ Tblisi, Georgia and Washington DC: National Center for Disease Control and Public Health, Promundo US, United Nations Population Fund, United Nations Children’s Fund.
