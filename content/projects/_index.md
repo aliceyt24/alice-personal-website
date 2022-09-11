@@ -8,5 +8,5 @@ outputs:
 - html
 ---
 
-Dummy text for collaborative projects. Some external links [here](https://gopherize.me/).
+Under construction. Coming soon! 
 
