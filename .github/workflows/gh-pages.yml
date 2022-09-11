@@ -30,3 +30,4 @@ jobs:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           external_repository: aliceyt24/aliceyt24.github.io
           publish_dir: ./public
+          cname: aliceyt.net
