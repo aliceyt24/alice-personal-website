@@ -16,4 +16,4 @@ For more about me, please see [here](/biography).
 
 Feel free to look around and if anything catches your eye, or you think we could work together, please get in touch! I love to collaborate.
 
-Olá, entre em contato! / Escribeme!
+Oi, entre em contato! * *  Escribeme!
