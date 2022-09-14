@@ -1,5 +1,5 @@
-{
-    {
+[
+  {
         "role":"Graduent Student Instructor (GSI)",
         "company":"UC Berkeley"
     },
@@ -32,4 +32,4 @@
     {
         "summary":"Other: Qualitative research trainings (Brazil, Republic of Georgia);  invited talks, short courses and presentations"
    }
-}
+]
