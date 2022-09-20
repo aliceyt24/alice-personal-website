@@ -10,10 +10,14 @@ outputs:
 
 More soon! 
 
-I am working on several co-authored writing projects, participate in research groups at UC Berkeley and Universidade Federal do Rio de Janeiro (UFRJ), the Federal University of Rio de Janeiro on digital methods, social movements (NETS) and anti-racist education (Gepear)
+I am working on several co-authored writing projects
+
+
+I'm engaged in the Comparative & International Education Society (CIES), American Educational Research Association (AERA), and other societies as well as research groups at UC Berkeley and Universidade Federal do Rio de Janeiro (UFRJ), the Federal University of Rio de Janeiro on digital methods, social movements (NETS) and anti-racist education (Gepear)
+
 
 I have also worked on research consultancies related to gender and gender-based violence
 
 
 
-The other kind of movement I love is dance, so you can also find me in contemporary dance communities based in Rio de Janeiro or San Francisco
+The other kind of movement I love is dance, so you can also find me in contemporary dance communities 
