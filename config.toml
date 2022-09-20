@@ -9,7 +9,7 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Berkeley, CA USA · Rio de Janeiro, Brazil"
+address = "Berkeley, CA USA   ·   Rio de Janeiro, Brazil"
 email = "aliceyt@berkeley.edu"
 favicon = "/favicon.ico"
 colorCSS = "css/color.css"
@@ -34,6 +34,9 @@ name = "Twitter"
 link = "https://www.linkedin.com/in/aliceytaylor/"
 name = "LinkedIn"
 
+[[params.handles]]
+link = "https://www.instagram.com/aliceytaylor/"
+name = "Instagram"
 [outputs]
 home = ["HTML", "JSON"]
 
