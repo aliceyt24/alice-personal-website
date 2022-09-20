@@ -14,6 +14,6 @@ Hello! My name is Alice and I am a Ph.D. candidate in the School of Education at
 
 For more about me, please see [here](/biography).
 
-Feel free to look around and if anything catches your eye, or you think we could work together, please get in touch! I love to collaborate.
+Feel free to look around and if anything catches your eye, or you think we could work together, please get in touch! 
 
 Oi, entre em contato! * *  Escribeme!
