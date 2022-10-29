@@ -8,6 +8,8 @@ outputs:
 - html
 ---
 
+![image] (https://github.com/aliceyt24/alice-personal-website/blob/main/static/img/Hands_AM.jpeg)
+
 More soon! 
 
 I am working on several co-authored writing projects and grateful to write with SWAG, a writing group with the Institute for the Study of Societal Issues
