@@ -10,7 +10,7 @@ outputs:
 - json
 ---
 
-{{< figure src="/static/img/Hands_AM.jpeg" title="image" >}}
+{{< figure src="img/Hands_AM.jpeg" width="600">}}
 
 Hello! My name is Alice and I am a Ph.D. candidate in the School of Education at the University of California, Berkeley.
 
