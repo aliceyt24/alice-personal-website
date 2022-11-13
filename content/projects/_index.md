@@ -8,7 +8,7 @@ outputs:
 - html
 ---
 
-More soon! 
+{{< figure src="img/World_AM.jpeg" width="600">}}
 
 I am working on several co-authored writing projects and grateful to write with SWAG, a writing group with the Institute for the Study of Societal Issues
 
@@ -23,4 +23,4 @@ I have also worked on research consultancies related to gender and gender-based 
 The other kind of movement I love is dance, so you can also find me in contemporary dance communities!
 
 
-Website design support: Georgios Varnavides; Photo credit: Beatriz Escobar
+Website design support: Georgios Varnavides; Photo credit: Beatriz Escobar; Illustrations credit: Atefeh Morshedi
