@@ -10,6 +10,8 @@ outputs:
 - json
 ---
 
+{{< figure src="/static/img/Hands_AM.jpeg" title="image" >}}
+
 Hello! My name is Alice and I am a Ph.D. candidate in the School of Education at the University of California, Berkeley.
 
 For more about me, please see [here](/biography).
