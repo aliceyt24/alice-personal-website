@@ -23,4 +23,3 @@ I have also worked on research consultancies related to gender and gender-based 
 The other kind of movement I love is dance, so you can also find me in contemporary dance communities!
 
 
-Website design support: Georgios Varnavides; Photo credit: Beatriz Escobar; Illustrations credit: Atefeh Morshedi
