@@ -19,3 +19,5 @@ For more about me, please see [here](/biography).
 Feel free to look around and if anything catches your eye, or you think we could work together, please get in touch! 
 
 Oi, entre em contato! * *  Escribeme!
+
+Illustrations credit: Atefeh Morshedi; Photo credit: Beatriz Escobar; Website design support: Georgios Varnavides.
