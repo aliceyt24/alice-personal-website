@@ -11,11 +11,12 @@ outputs:
 {{< figure src="img/World_AM.jpeg" width="600">}}
 
 I am a graduate affiliate of the UC Berkeley Center for Latin American Studies (CLAS). I'm working on several co-authored writing projects and grateful to write with SWAG, a writing group with the Institute for the Study of Societal Issues.
-I'm engaged in several activist movements and organizing efforts in the U.S. and Brazil. 
+
+I'm engaged in several activist movements and organizing efforts in the U.S. and Brazil, and participated in the Learning Community for Graduate Scholar-Activists through the UC Berkeley American Cultures Program.
 
 I have been a track organizer and created several panels with the Comparative & International Education Society (CIES), and presented at the American Educational Research Association (AERA), and other conferences/societies. I participate in research groups at UC Berkeley and the Universidade Federal do Rio de Janeiro (UFRJ), the Federal University of Rio de Janeiro on digital methods, social movements (NETS) and anti-racist education (Gepear)
 
-I have also worked as a researcher and research consultant on projects about gender and gender-based violence with several organizations including Action Aid; Promundo (now Equimundo); UN entities such as UN-Habitat and UNFPA; The Feinstein International Center at Tufts University, and The World Bank. 
+For about 10 years, I worked as a researcher and research consultant on projects about gender and gender-based violence with several organizations including Action Aid; Promundo (now Equimundo); UN entities such as UN-Habitat and UNFPA; The Feinstein International Center at Tufts University, and The World Bank. 
 
 Here are a few examples of scholar-activist events I have co-organized: 
 
