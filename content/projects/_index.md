@@ -15,8 +15,15 @@ I'm engaged in several activist movements and organizing efforts in the U.S. and
 
 I have been a track organizer and created several panels with the Comparative & International Education Society (CIES), and presented at the American Educational Research Association (AERA), and other conferences/societies. I participate in research groups at UC Berkeley and the Universidade Federal do Rio de Janeiro (UFRJ), the Federal University of Rio de Janeiro on digital methods, social movements (NETS) and anti-racist education (Gepear)
 
-I have also worked on research consultancies related to gender and gender-based violence.
+I have also worked on research consultancies related to gender and gender-based violence with several global organizations .
 
 The other kind of movement I love is dance, so you can also find me in contemporary dance communities!
 
 
+Here are a few examples of scholar-activist events I have co-organized: 
+
+https://clas.berkeley.edu/feminist-resistance-radical-right-brazil
+
+https://lutainitiative.wordpress.com/our-2019-symposium/
+
+https://events.berkeley.edu/crg/event/127742-conceptualizing-campus-abolition-and-the-movement
