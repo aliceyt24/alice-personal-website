@@ -10,6 +10,8 @@ outputs:
 
 {{< figure src="img/World_AM.jpeg" width="600">}}
 
+Since I became a researcher, collaborations and community engaged work have been central to what I do. 
+
 I am a graduate affiliate of the UC Berkeley Center for Latin American Studies (CLAS). I'm working on several co-authored writing projects and grateful to write with SWAG, a writing group with the Institute for the Study of Societal Issues.
 
 I'm engaged in several activist movements and organizing efforts in the U.S. and Brazil, and participated in the Learning Community for Graduate Scholar-Activists through the UC Berkeley American Cultures Program.
