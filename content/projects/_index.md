@@ -16,7 +16,7 @@ I was a graduate affiliate of the UC Berkeley Center for Latin American Studies 
 
 I'm engaged in several activist movements and organize in the U.S. and Brazil, and participated in the Learning Community for Graduate Scholar-Activists through the UC Berkeley American Cultures Program. While at UC Berkeley and with other students, I organized to shift the climate of the department, and through a historic strike across the UC system, fought for better conditions for student workers including graduate student instructors and researchers, through the UAW-2865 (union). 
 
-I have been an organizer and created several panels with the Comparative & International Education Society (CIES), primarily the 21st Century Socialism and Education: Global Alternatives to Patriarchy, Racial Capitalism, Militarism, and Climate Change track since 2018. At CIES 2023, for which the theme is "the Power of Protest", we are organizing several panels, a workshop about educators' and activists' resistance against DeSantis, and a solidarity action led by Miami-based organizers. 
+I have been an organizer and created several panels with the Comparative & International Education Society (CIES), primarily the 21st Century Socialism and Education: Global Alternatives to Patriarchy, Racial Capitalism, Militarism, and Climate Change track since 2018. At CIES 2024, we are organizing around the theme is "the Power of Protest."
 
 I have also presented at the American Educational Research Association (AERA), and other conferences and community fora. I participated in research groups at UC Berkeley and the Universidade Federal do Rio de Janeiro (UFRJ), the Federal University of Rio de Janeiro on digital methods, social movements (NETS) and anti-racist education (Gepear).
 
