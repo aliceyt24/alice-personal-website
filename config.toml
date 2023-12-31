@@ -10,7 +10,7 @@ enableGitInfo = false
 
 [params]
 address = "Berkeley, CA USA   ·   Rio de Janeiro, Brazil"
-email = "aliceyt@berkeley.edu"
+email = "alice.taylor@du.edu"
 favicon = "/favicon.ico"
 colorCSS = "css/color.css"
 firstName = "Alice Y"
