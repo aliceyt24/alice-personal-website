@@ -11,9 +11,12 @@ outputs:
 For a list of select research reports and educational materials, please see [here](/select-research-reports).
 
 
+
+
 Dissertation abstract: 
 
 Articulating Youth: The Politics and Practices of Brazilian Youth Movements
+Summer 2023
 
 by
 Alice Y. Taylor
@@ -44,6 +47,3 @@ O estudo apresenta dois argumentos principais. Primeiro, ao se organizarem como 
 Essas formas de existência plural dos movimentos aqui analisados demanda um engajamento dos e das jovens no que chamo aqui de “projetos de articulação”, os quais são analisados em cada um dos capítulos da presente tese. Após um capítulo que descreve e analisa o contexto histórico que influenciou a construção dos movimentos (Capítulo 2), o Capítulo 3 examina a articulação entre movimentos e dentro dos movimentos sociais, bem como busca entender como essas articulações se dão através da construção de alianças. Posteriormente, o Capítulo 4 foca na articulação entre a rua e as redes sociais. Argumento que os primeiros experimentos de jovens militantes com ferramentas digitais estabeleceram a fundação do que veria a ser, na década seguinte, sua relação com as ruas. Conceituo então os movimentos de juventude brasileiros como movimentos “híbridos”, que surgiram de ações coletivas potentes nas ruas e foram mediados e combinados com a proliferação da tecnologia digital e das redes sociais. Essa história interconectada das práticas híbridas dos jovens militantes trouxe mudanças em como eles/elas se organizaram e como eles criaram significado nos movimentos e por meio deles. O Capítulo 5 descreve a política partidária, as eleições, e os movimentos sociais que se organizaram no período aqui estudado. Ao reivindicar o poder nos espaços públicos, os movimentos e candidatos jovens não buscam apenas representação formal, mas propõem uma forma diferente de fazer política, uma nova cultura política de juventude de ousadia. O estudo conclui (Capítulo 6) com reflexões do Congresso da União Nacional dos Estudantes de 2023, e por fim, apresenta reflexões finais.
 
 Esta pesquisa buscou investigar os movimentos de juventude durante uma virada crítica na história brasileira marcada por uma volta dos protestos após um período de estagnação, uma proliferação de tecnologia digital e redes sociais, um aprofundamento das desigualdades, e um período de intensa polarização política. Suas ações híbridas e multimodais reformulam as noções de público e espaço público, e seu papel nas formas participativas e democráticas de deliberação. Enquanto os/as jovens “ocupam,” eles/elas reivindicam os espaços públicos como aqueles que podem e devem ser ocupados pela classe trabalhadora brasileira e pelos cidadãos mais marginalizados. Ao defender as lutas estudantis e interseccionais, os/as jovens militantes se engajam no contestado trabalho de construção da esquerda política com implicações para o Brasil e as Américas, vislumbrando e promulgando uma sociedade alternativa para o futuro. Enquanto os pesquisadores de educação repensam a educação cívica e política de maneira que reflita a vida dos/das jovens, o estudo aponta para os movimentos sociais como locais frequentemente negligenciados que podem ser entendidos como espaços de engajamento político profundo e liderados por jovens. Jovens militantes contribuem para a (re)construção da democracia em nível nacional enquanto se comprometem coletivamente com o trabalho cotidiano de se unir, construir, e aprender nas lutas. A traves dessas políticas e práticas, mostram como sustentam movimentos ao longo de mais de uma década, construindo seus movimentos em varias escalas geográficas, entre o local ate o nacional e transnacional. 
-
-
-![image](https://github.com/aliceyt24/alice-personal-website/assets/113254085/79b2eed9-5058-4681-a0a8-1a9436699184)
