@@ -12,8 +12,8 @@ For a list of select research reports and educational materials, please see [her
 
 
 
-
-title: "Dissertation abstract:"
+---
+Dissertation Abstract
 
 Articulating Youth: The Politics and Practices of Brazilian Youth Movements
 Summer 2023
