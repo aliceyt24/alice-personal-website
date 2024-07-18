@@ -20,6 +20,7 @@ showEducation = true
 showTeaching = true
 showProjects = true
 showPublications = true
+showConferences = true
 
 [params.google]
 
