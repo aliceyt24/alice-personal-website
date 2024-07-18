@@ -9,7 +9,7 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Berkeley, CA USA   ·   Rio de Janeiro, Brazil"
+address = "Denver, CO USA   ·   Rio de Janeiro, Brazil"
 email = "alice.taylor@du.edu"
 favicon = "/favicon.ico"
 colorCSS = "css/color.css"
