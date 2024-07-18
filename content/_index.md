@@ -12,7 +12,7 @@ outputs:
 
 {{< figure src="img/Hands_AM.jpeg" width="600">}}
 
-Hello! My name is Alice and I am a Global Justice postdoctoral scholar at University of Denver's Korbel School of International Affairs.
+Hello! My name is Alice and I am a Global Justice postdoctoral scholar at University of Denver's Korbel School of International Studies.
 
 For more about me, please see [here](/biography).
 
