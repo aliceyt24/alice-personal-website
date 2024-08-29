@@ -12,13 +12,13 @@ outputs:
 
 Collaborations, community engaged work, and reflexivity about my positionality, are central to what I do and to more meaningful work in the long term. 
 
-I was a graduate affiliate of the UC Berkeley Center for Latin American Studies (CLAS) and participated for years in a writing group with the Institute for the Study of Societal Issues. I'm working on several co-authored writing projects.
+I was a graduate affiliate of the UC Berkeley Center for Latin American and Caribbean Studies (CLACS) and participated for years in a writing group with the Institute for the Study of Societal Issues. I'm working on several co-authored writing projects.
 
 I'm engaged in several activist movements and organize in the U.S. and Brazil, and participated in the Learning Community for Graduate Scholar-Activists through the UC Berkeley American Cultures Program. While at UC Berkeley and with other students, I organized to shift the climate of the department, and through a historic strike across the UC system, fought for better conditions for student workers including graduate student instructors and researchers, through the UAW-2865 (union). 
 
-I have been an organizer and created several panels with the Comparative & International Education Society (CIES), primarily the 21st Century Socialism and Education: Global Alternatives to Patriarchy, Racial Capitalism, Militarism, and Climate Change track since 2018. Prior to CIES 2024, we are organizing around the theme, "the Power of Protest."
+I have been an organizer and created several panels with the Comparative & International Education Society (CIES), primarily 21st Century Alternatives: Global Alternatives to Patriarchy, Racial Capitalism, Militarism, and Climate Change track since 2018 and each year organize with local activists. For CIES 2024, we co-organized around the theme, "the Power of Protest" with educators and activists fighting against book bans and other conservative politics, which began with a march for Florida Educators.
 
-I have also presented at the American Educational Research Association (AERA), and other conferences and community fora. I participated in research groups at UC Berkeley and the Universidade Federal do Rio de Janeiro (UFRJ), the Federal University of Rio de Janeiro on digital methods, social movements (NETS) and anti-racist education (Gepear).
+I have also presented at the American Sociological Association (ASA), Latin American Studies Association (LASA), American Educational Research Association (AERA), and other conferences and community fora. I participated in research groups at UC Berkeley and the Universidade Federal do Rio de Janeiro (UFRJ), the Federal University of Rio de Janeiro on digital methods, social movements (NETS) and anti-racist education (Gepear).
 
 For about 10 years, I worked as a researcher and research consultant on projects about gender and gender-based violence with several organizations including Action Aid; Promundo (now Equimundo); UN entities such as UN-Habitat and UNFPA; and The Feinstein International Center at Tufts University. 
 
