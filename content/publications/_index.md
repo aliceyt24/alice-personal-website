@@ -8,9 +8,10 @@ outputs:
 - html
 ---
 
+For a full list please also see https://scholar.google.com/citations?user=lvPQDYIAAAAJ&hl=en
+And [Academia.edu](https://udenver.academia.edu/AliceTaylor)
+
 For a list of select research reports and educational materials, please see [here](/select-research-reports).
-
-
 
 ---
 Dissertation Abstract
