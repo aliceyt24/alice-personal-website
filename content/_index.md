@@ -22,5 +22,5 @@ Oi, entre em contato! * *  Escribeme!
 
 Illustrations credit: Atefeh Morshedi; Photo credit: Beatriz Escobar; Website design support: Georgios Varnavides.
 
-[Google Scholar](https://scholar.google.com/citations?user=lvPQDYIAAAAJ&hl=en) 
+You can also find me on [Google Scholar](https://scholar.google.com/citations?user=lvPQDYIAAAAJ&hl=en) 
 and [Academia.edu](https://udenver.academia.edu/AliceTaylor)
