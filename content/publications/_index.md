@@ -4,12 +4,12 @@ date: 2022-09-09T18:56:13-05:00
 sitemap:
   priority : 0.8
 
+For a full list please also see [Google Scholar](https://scholar.google.com/citations?user=lvPQDYIAAAAJ&hl=en) 
+and [Academia.edu](https://udenver.academia.edu/AliceTaylor)
+
 outputs:
 - html
 ---
-
-For a full list please also see [Google Scholar](https://scholar.google.com/citations?user=lvPQDYIAAAAJ&hl=en) 
-and [Academia.edu](https://udenver.academia.edu/AliceTaylor)
 
 For a list of select research reports and educational materials, please see [here](/select-research-reports).
 
