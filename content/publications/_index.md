@@ -10,6 +10,8 @@ outputs:
 
 For a list of select research reports and educational materials, please see [here](/select-research-reports).
 
+Also see my [Google Scholar](https://scholar.google.com/citations?user=lvPQDYIAAAAJ&hl=en) for a complete list of publications.
+
 ---
 Dissertation Abstract
 
