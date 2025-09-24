@@ -12,7 +12,8 @@ outputs:
 
 {{< figure src="img/Hands_AM.jpeg" width="600">}}
 
-Hello! My name is Alice and I am a Global Justice postdoctoral scholar at University of Denver's Korbel School of International Studies.
+Hello! My name is Alice and I am a Research Assistant Professor at the Georgetown Americas Institute (GAI) at Georgetown University. I am academic coordinator of an interdisciplinary project, "Democracy in the Americas" affiliated with GAI, the Center for Latin American Studies (CLAS) and Walsh School of Foreign Service at Georgetown.
+I am also Adjunct Faculty at the at University of Denver's Korbel School of Global & Public Affairs, where I completed a Global Justice postdoctoral fellowship. 
 
 For more about me, please see [here](/biography).
 
