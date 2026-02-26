@@ -13,7 +13,7 @@ outputs:
 {{< figure src="img/Hands_AM.jpeg" width="600">}}
 
 Hello! My name is Alice and I am an Assistant Research Professor at the Georgetown Americas Institute (GAI) at Georgetown University. 
-I am also Adjunct Faculty at the at University of Denver's Korbel School of Global & Public Affairs, where I completed a Global Justice postdoctoral fellowship. 
+I am also Adjunct Faculty at the at University of Denver's Korbel School of Global & Public Affairs and in the Department of Sociology. I completed a Global Justice postdoctoral fellowship at the Korbel School in 2023. 
 
 For more about me, please see [here](/biography).
 
