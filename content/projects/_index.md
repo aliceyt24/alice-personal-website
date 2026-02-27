@@ -22,7 +22,7 @@ I have also presented at the American Sociological Association (ASA), Latin Amer
 
 For about 10 years, I worked as a researcher and  consultant on projects about gender and gender-based violence, education, and youth with several organizations including Action Aid; Promundo (now Equimundo); UN entities such as UN-Habitat and UNFPA; and The Feinstein International Center at Tufts University. 
 
-Here are a few examples of scholar-activist events I have co-organized: 
+Here are a few examples of public scholarship events I have co-organized: 
 
 https://clas.berkeley.edu/feminist-resistance-radical-right-brazil
 
