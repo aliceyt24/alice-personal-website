@@ -12,8 +12,7 @@ outputs:
 
 {{< figure src="img/Hands_AM.jpeg" width="600">}}
 
-Hello! My name is Alice and I am an Assistant Research Professor at the Georgetown Americas Institute (GAI) at Georgetown University. 
-I am also Adjunct Faculty at the at University of Denver's Korbel School of Global & Public Affairs where I completed a Global Justice postdoctoral fellowship, adjunct faculty in the Department of Sociology. I teach courses on Social Inequality and Global Citizenship and supervise MA capstone projects in Global Justice.  
+Hello! My name is Alice and I am Adjunct Faculty at the at University of Denver's Korbel School of Global & Public Affairs where I completed a Global Justice postdoctoral fellowship. I teach courses on Social Inequality and Global Citizenship and supervise MA capstone projects in Global Justice. Recently, I completed an appointment as Assistant Research Professor at the Georgetown Americas Institute (GAI) at Georgetown University. I collaborate on several projects with academics, researchers, educators, students, and organizers.
 
 For more about me, please see [here](/biography).
 
