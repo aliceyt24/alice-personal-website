@@ -14,6 +14,11 @@ jobs:
           submodules: true  
           fetch-depth: 0    
 
+      # Runs before the build so a typo in data/*.json fails here with a
+      # readable message, instead of as a Go unmarshal error inside Hugo.
+      - name: Check data files
+        run: python3 .github/scripts/validate-data.py
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:

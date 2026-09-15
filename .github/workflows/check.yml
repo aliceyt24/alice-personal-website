@@ -1,0 +1,26 @@
+name: check
+
+# Pull requests don't trigger the deploy workflow, so without this a broken
+# data file would only be caught after merging — with the live site already down.
+# Builds the site exactly as the deploy does, but publishes nothing.
+on:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+
+      - name: Check data files
+        run: python3 .github/scripts/validate-data.py
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
+      - name: Build
+        run: hugo --minify
